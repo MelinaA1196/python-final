@@ -38,5 +38,8 @@ Corrección de errores: Soluciona problemas de versiones anteriores. </sub>
 
 # 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 
+```sh
+git commit -m "Agregue finales y README de la clase 11 de Phyton"
+```
 
 # 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
